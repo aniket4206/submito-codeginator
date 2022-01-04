@@ -1,0 +1,35 @@
+1. Student login problem : The first student registred in database do nt returns id 
+Found : 18 NOV 2019
+Resolved : 18 NOV 2019
+
+2. backup of file
+
+3. google analytics code
+
+4. global variable of email and password
+
+5. implement session in password change
+
+6. can js file contain script tag
+
+7. table in responsive layout
+
+8. security in ci
+
+9. FCPATH instead of address for verified badge logo
+
+10. Responsive students panel
+
+11. Responsive teachers panel
+
+12. Responsive Admin Panel
+
+13. change hashing algorithem
+
+14. copy paste disable [ advance level ]
+
+15. disable add admin button
+
+16. security of input text
+
+17. cpatcha in contact us and login
