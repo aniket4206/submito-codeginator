@@ -8,12 +8,7 @@ The challenges faced by students in meeting assignment deadlines and cost associ
 
 ## Youtube Video📹
 #### click on image to play video
-[![submito](https://github.com/G-Sudarshan/submito/blob/master/iOU7E4vqW20-HD.jpg)](https://www.youtube.com/watch?v=iOU7E4vqW20)
+[![submito](https://www.youtube.com/watch?v=iOU7E4vqW20)
 
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/g-sudarshan
-
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/G-Sudarshan/resume-parser/edit/master/LICENSE.txt
 
